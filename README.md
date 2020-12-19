@@ -6,4 +6,4 @@ An iOS weather app that describes current weather by quoting classic literature.
 
 # To run the app
 - Remove the missing Constants file (I'll try to fix it later)
-- Paste your API key string into weatherURL constant in WeatherManager struct
+- Paste your API key string into weatherURL constant in WeatherManager file
