@@ -115,9 +115,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ADAA27AC231BBFAF00365194 /* Clear Sky */ = {
+		ADAA27AC231BBFAF00365194 /* Vivid */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ADAA27C1231BBFB300365194 /* Build configuration list for PBXNativeTarget "Clear Sky" */;
+			buildConfigurationList = ADAA27C1231BBFB300365194 /* Build configuration list for PBXNativeTarget "Vivid" */;
 			buildPhases = (
 				ADAA27A9231BBFAF00365194 /* Sources */,
 				ADAA27AA231BBFAF00365194 /* Frameworks */,
@@ -127,7 +127,7 @@
 			);
 			dependencies = (
 			);
-			name = "Clear Sky";
+			name = Vivid;
 			productName = Clima;
 			productReference = ADAA27AD231BBFAF00365194 /* Vivid.app */;
 			productType = "com.apple.product-type.application";
@@ -160,7 +160,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ADAA27AC231BBFAF00365194 /* Clear Sky */,
+				ADAA27AC231BBFAF00365194 /* Vivid */,
 			);
 		};
 /* End PBXProject section */
@@ -392,7 +392,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ADAA27C1231BBFB300365194 /* Build configuration list for PBXNativeTarget "Clear Sky" */ = {
+		ADAA27C1231BBFB300365194 /* Build configuration list for PBXNativeTarget "Vivid" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ADAA27C2231BBFB300365194 /* Debug */,

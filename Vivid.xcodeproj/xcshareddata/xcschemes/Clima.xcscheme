@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "ADAA27AC231BBFAF00365194"
                BuildableName = "Vivid.app"
-               BlueprintName = "Clear Sky"
+               BlueprintName = "Vivid"
                ReferencedContainer = "container:Vivid.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,7 +46,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ADAA27AC231BBFAF00365194"
             BuildableName = "Vivid.app"
-            BlueprintName = "Clear Sky"
+            BlueprintName = "Vivid"
             ReferencedContainer = "container:Vivid.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -67,7 +67,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ADAA27AC231BBFAF00365194"
             BuildableName = "Vivid.app"
-            BlueprintName = "Clear Sky"
+            BlueprintName = "Vivid"
             ReferencedContainer = "container:Vivid.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
